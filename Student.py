@@ -1,3 +1,12 @@
+"""
+
+Created on Fri July 03 2020
+
+@author: BhagiraTh Desani
+@discription: Create Student Management System Project Using Python GUI And MySQL Database.
+
+"""
+
 from tkinter import *
 from tkinter import ttk
 import pymysql
